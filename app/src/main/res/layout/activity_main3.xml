@@ -23,7 +23,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="靜宜の食"
+                android:text="456"
                 android:textColor="#020202"
                 android:textSize="40dp" />
         </LinearLayout>
